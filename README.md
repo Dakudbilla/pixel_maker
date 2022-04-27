@@ -1,3 +1,5 @@
+<img src="demo.png" alt="demo" />
+
 ## About The Project
 This is a fun application thatlets the user create a grid of squares representing their design, and apply colors to those squares to create a digital masterpiece!
 
