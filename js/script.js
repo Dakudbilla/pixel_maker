@@ -56,6 +56,7 @@ const checkIfColored = (height, width) => {
 
 // Entry into the script
 const main = () => {
+  
   if (submitCanvas) {
     submitCanvas.addEventListener("click", () => {
       const { height, width } = getUserCanvasValues();
